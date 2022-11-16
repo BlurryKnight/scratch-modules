@@ -7,4 +7,6 @@ The following files are available at the moment:
 
 blurryknight-switch.sprite3 - Small code to switch a variable from 0 to 1 and from 1 to 0 with the press of a button. More of a test file then something to actually be used
 
+notkaif-switch.sprite3 - A better switch then mine, made by notkaif 
+
 blurryknight-better-talk.sprite3 - Use this to make your characters talk like in RPGs, while still haing the looks of the scratch talk
